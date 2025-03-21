@@ -1,2 +1,3 @@
 # Tech-bi
-git repo
+git repo 
+Author
