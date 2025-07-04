@@ -1,2 +1,3 @@
 hello git
+Fixed the issue
 Hi, I added this line in bugfix branch
