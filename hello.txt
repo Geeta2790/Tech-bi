@@ -1,1 +1,2 @@
 hello git
+Hi, I added this line in bugfix branch
